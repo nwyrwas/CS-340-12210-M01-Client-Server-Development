@@ -40,28 +40,48 @@ pip install dash dash_leaflet dash_table plotly pandas pymongo
 <div align="center">
   <br><b>Installation</b>
 </div>
-Programming Languages & Frameworks
-•	Python 3.x – Core programming language for the backend and dashboard.
-•	Dash – Python framework for building the interactive web dashboard.
-•	Plotly Express – Used for creating visualizations like pie charts.
-•	Dash Leaflet – Provides geolocation mapping features.
-Database & Backend
-•	MongoDB – NoSQL database for storing and retrieving animal shelter data.
-•	PyMongo – Python library for interacting with MongoDB.
-Data Processing & Visualization
-•	Pandas – For data manipulation and transformation.
-•	NumPy – Supports efficient numerical computations.
-•	Matplotlib – Optional for additional data visualization.
-Development & Execution Environment
-•	Jupyter Notebook – Required to execute ProjectTwo.ipynb for running the dashboard.
-•	Jupyter Dash – Enables Dash applications to run inside Jupyter Notebooks.
-Other Dependencies
-•	Base64 (Python module) – Used for encoding and displaying images (e.g., the Grazioso Salvare logo).
-•	Dash Table – For interactive data table functionalities (filtering, sorting, pagination).
-System Requirements
-•	Operating System: Windows, macOS, or Linux
-•	Internet Connection: Required for database interactions (if using a remote MongoDB server).
-•	Disk Space: Minimal storage required (~100MB) <br>
+
+<h3>Programming Languages & Frameworks</h3>
+<ul>
+  <li><b>Python 3.x</b> – Core programming language for the backend and dashboard.</li>
+  <li><b>Dash</b> – Python framework for building the interactive web dashboard.</li>
+  <li><b>Plotly Express</b> – Used for creating visualizations like pie charts.</li>
+  <li><b>Dash Leaflet</b> – Provides geolocation mapping features.</li>
+</ul>
+
+<h3>Database & Backend</h3>
+<ul>
+  <li><b>MongoDB</b> – NoSQL database for storing and retrieving animal shelter data.</li>
+  <li><b>PyMongo</b> – Python library for interacting with MongoDB.</li>
+</ul>
+
+<h3>Data Processing & Visualization</h3>
+<ul>
+  <li><b>Pandas</b> – For data manipulation and transformation.</li>
+  <li><b>NumPy</b> – Supports efficient numerical computations.</li>
+  <li><b>Matplotlib</b> – Optional for additional data visualization.</li>
+</ul>
+
+<h3>Development & Execution Environment</h3>
+<ul>
+  <li><b>Jupyter Notebook</b> – Required to execute ProjectTwo.ipynb for running the dashboard.</li>
+  <li><b>Jupyter Dash</b> – Enables Dash applications to run inside Jupyter Notebooks.</li>
+</ul>
+
+<h3>Other Dependencies</h3>
+<ul>
+  <li><b>Base64 (Python module)</b> – Used for encoding and displaying images (e.g., the Grazioso Salvare logo).</li>
+  <li><b>Dash Table</b> – For interactive data table functionalities (filtering, sorting, pagination).</li>
+</ul>
+
+<h3>System Requirements</h3>
+<ul>
+  <li><b>Operating System</b>: Windows, macOS, or Linux</li>
+  <li><b>Internet Connection</b>: Required for database interactions (if using a remote MongoDB server).</li>
+  <li><b>Disk Space</b>: Minimal storage required (~100MB)</li>
+</ul>
+<br>
+
 
 <div align="center">
   <br><b>Usage</b>
